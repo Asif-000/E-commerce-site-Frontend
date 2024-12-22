@@ -6,9 +6,9 @@ const products = [
   { id: 1, name: "Product 1", price: 25.99, image: "https://img.freepik.com/free-vector/modern-watch_23-2147517339.jpg?semt=ais_hybrid"},
   { id: 2, name: "Product 2", price: 35.99, image: "https://img.freepik.com/free-vector/smart-watch-realistic-image-black_1284-11873.jpg?semt=ais_hybrid" },
   { id: 3, name: "Product 3", price: 20.99, image: "https://img.freepik.com/premium-vector/realistic-watch-clock-black-face-silver-red-arrow-white-number-with-fabric-strap-isolated-vector_33869-4744.jpg?semt=ais_hybrid" },
-  { id: 4, name: "Product 3", price: 18.99, image: "https://img.freepik.com/premium-vector/mechanical-watch-classic-design-realistic-wristwatch-luxury-fashion-object-men-white_87946-6616.jpg?semt=ais_hybrid" },
-  { id: 5, name: "Product 3", price: 14.99, image: "https://img.freepik.com/free-photo/closeup-shot-golden-watch-isolated_181624-28492.jpg?semt=ais_hybrid" },
-  { id: 6, name: "Product 3", price: 10.99, image: "https://img.freepik.com/premium-vector/classic-design-watch_45098-945.jpg?semt=ais_hybrid" },
+  { id: 4, name: "Product 4", price: 18.99, image: "https://img.freepik.com/premium-vector/mechanical-watch-classic-design-realistic-wristwatch-luxury-fashion-object-men-white_87946-6616.jpg?semt=ais_hybrid" },
+  { id: 5, name: "Product 5", price: 14.99, image: "https://img.freepik.com/free-photo/closeup-shot-golden-watch-isolated_181624-28492.jpg?semt=ais_hybrid" },
+  { id: 6, name: "Product 6", price: 10.99, image: "https://img.freepik.com/premium-vector/classic-design-watch_45098-945.jpg?semt=ais_hybrid" },
 ];
 
 
